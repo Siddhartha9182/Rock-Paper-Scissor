@@ -2,7 +2,7 @@
 ## ROCK PAPER SCISSOR ##
 
 # 📌 Description
-This is a ROCK PAPER SCISSOR project which is usually a game . This project demonstrates the basics of conditional logic, loops, and user interaction.
+This is a ROCK PAPER SCISSOR project which is usually a game . This project demonstrates the basics of conditional logic, loops, and user interaction. Also this project demonstrated my frontend tech skills.
 
 ## **🛠️ Tech Stack**
 - HTML
